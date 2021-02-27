@@ -7,4 +7,4 @@ This is a python implementation of the paper: A prognostic dynamic model applica
 * numpy
 * matplotlib
 # Guide
-
+will add later
