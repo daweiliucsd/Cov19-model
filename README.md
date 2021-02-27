@@ -6,3 +6,5 @@ This is a python implementation of the paper: A prognostic dynamic model applica
 * sklearn
 * numpy
 * matplotlib
+# Guide
+
