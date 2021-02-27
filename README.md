@@ -3,7 +3,6 @@ This is a python implementation of the paper: A prognostic dynamic model applica
 # Dependencies
 * Python 3.6
 * skimage
-* sklearn
 * numpy
 * matplotlib
 # Guide
